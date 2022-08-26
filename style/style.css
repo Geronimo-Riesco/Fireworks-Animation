@@ -12,8 +12,7 @@ h1 {
   background: -webkit-linear-gradient(270deg, #b527cf, #3bd9d9);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  display: flex;
-  justify-content: center;
+  text-align: center;
   margin-top: 100px;
 }
 
